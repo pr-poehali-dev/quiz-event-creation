@@ -32,6 +32,12 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				literary: {
+					dark: '#2C1810',
+					brown: '#8B4513',
+					cream: '#F4E4BC',
+					parchment: '#F9F7F0'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
